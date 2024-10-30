@@ -6,6 +6,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![Descripción de la imagen](https://github.com/Zintinux83/Zintinux83/blob/main/fondo_m.jpeg)
+
 <!---
 Zintinux83/Zintinux83 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
