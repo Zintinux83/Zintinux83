@@ -32,7 +32,8 @@ Soy un desarrollador apasionado en formación, actualmente cursando **2º del ci
   - MySQL
   - PostgreSQL
 
-- **Uso de software y herramientas:**
+- **Uso de software, entornos y herramientas:**
+  - GNU Linux como SO de uso, me gusta Fedora y Linux Mint como distros.
   - IntelliJ IDEA
   - Android Studio
   - MySQL Workbench
@@ -59,6 +60,20 @@ Estoy emocionado por seguir aprendiendo y creciendo en el mundo de la programaci
     <img align="center" src="png" alt="" height="23px" width="28px" />
   </a>
 </p>
+
+## 🛠️ Mis proyectos que puedes considerar
+
+- **Lenguajes de Programación:**
+   - 
+
+---
+
+## 🛠️ Mis fuentes de información 
+
+- **Lenguajes de Programación:**
+   - 
+
+---
 
 ¡Gracias por visitar mi perfil! 🚀
 
