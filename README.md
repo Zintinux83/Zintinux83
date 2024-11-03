@@ -11,7 +11,7 @@
 
 ## 🚀 Sobre mí
 
-Soy Dmitriy, un estudiante entusiasta de 2º DAM, dedicado a aprender y dominar el arte del desarrollo de aplicaciones multiplataforma. La gran mayoria utilizamos nuestro dispositivo móvil para hacer cualquier cosa, por más simple que pueda parecer esto lleva un gran trabajo que no vemos y que lleva a muchos a ir mejorando día a día para proporcionar una mayor satisfacción en los usuarios.
+Soy Dmitriy, un estudiante entusiasta de 2º DAM, dedicado a aprender y dominar el arte del desarrollo de aplicaciones multiplataforma. Mi objetivo es convertirme en un desarrollador full-stack capaz de construir aplicaciones completas desde cero.
 
 ## 🛠️ Tecnologías
     
@@ -19,7 +19,7 @@ Estoy aprendiendo y practicando con:
 
 * **Lenguajes:** Java (intermedio), Kotlin (básico), HTML y CSS.
 * **Bases de Datos:** MySQL
-* **Herramientas:** Git, GitHub, IntelliJ IDEA, VS Code
+* **Herramientas:** Git, GitHub, IntelliJ IDEA, VS Code y trabajo en GNU Linux.
 
 ## 💡 Mis Proyectos
 
@@ -35,6 +35,45 @@ Para seguir creciendo como desarrollador, me mantengo actualizado a través de:
 * [Java con W3School](https://www.w3schools.com/java/)
 * [Git en W3School](https://www.w3schools.com/git/default.asp)
 * 
+
+## Vídeos utiles de YouTube que he seguido:
+
+<table style="width:100%">
+<tr>
+<td>
+<a href="https://youtu.be/Kp4Mvapo5kc">
+<img src="http://i3.ytimg.com/vi/Kp4Mvapo5kc/maxresdefault.jpg">
+</a>
+</td>
+<td>
+<a href="https://youtu.be/mIVbUb7shE8">
+<img src="http://i3.ytimg.com/vi/mIVbUb7shE8/maxresdefault.jpg">
+</a>
+</td>
+<td>
+<a href="https://www.youtube.com/watch?v=oXl5irohkWQ">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOVP.CASUhRk8QEfMjhGV51M1LwHgFo%26pid%3DApi&f=1&ipt=1d304c67fcab23ac2c7a6ff1b8b71c9ce8adca23dfb2b83530c0c29b046a32c6&ipo=videos">
+</a>
+</td>
+</tr>
+   
+<tr>
+<td>
+<a href="https://youtu.be/SavaU66KxQY">
+<img src="http://i3.ytimg.com/vi/SavaU66KxQY/maxresdefault.jpg">
+</a>
+</td>
+<td>
+<a href="https://youtu.be/G0ga_YVQOaw">
+<img src="http://i3.ytimg.com/vi/G0ga_YVQOaw/maxresdefault.jpg">
+</a>
+<td>
+<a href="https://www.youtube.com/watch?v=T3ugOYTRF7c">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOVP.eRHSX6O4Wdi5ISqGvzMiSwHgFo%26pid%3DApi%26h%3D120&f=1&ipt=74c38213937ba9b27f3f1f4d5b84187313a0026296a8f35ba132d30a7cc2c36a&ipo=videos">
+</a>
+</td>
+</tr>
+</table>
 
 ## ¡Contáctame!
 
