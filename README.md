@@ -4,11 +4,15 @@
 </div>
 <p></p>
 <p align="center" width="300">
-   <img align="center" width="200" src=""  />
-  
-   <h3 align="center"> Hola, soy @Dmitriy👋! </h3>
+   <img align="center" width="200" src="https://github.com/Zintinux83/Zintinux83/blob/main/10061694.png"  />
 </p><p>
-   
+
+# Dmitriy - Desarrollador en formación apasionado por el desarrollo en Android y multiplataforma en general.
+
+## 🚀 Sobre mí
+
+Soy Dmitriy, un estudiante entusiasta de 2º DAM, dedicado a aprender y dominar el arte del desarrollo de aplicaciones multiplataforma. La gran mayoria utilizamos nuestro dispositivo móvil para hacer cualquier cosa, por más simple que pueda parecer esto lleva un gran trabajo que no vemos y que lleva a muchos a ir mejorando día a día para proporcionar una mayor satisfacción en los usuarios.
+
 ## 🛠️ Tecnologías
     
 Estoy aprendiendo y practicando con:
