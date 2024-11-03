@@ -1,88 +1,43 @@
+<div align="center">
+
+   <img align="center" width="1000px" heigth="300px" alt="Imagen de banner" src="https://github.com/Zintinux83/Zintinux83/blob/main/fondo_m.jpeg"  />
+</div>
+<p></p>
 <p align="center" width="300">
    <img align="center" width="200" src=""  />
   
-   <h3 align="center"> 👋 Hola, soy @Zintinux83👋! </h3>
-</p>
-
-<div align="center">
+   <h3 align="center"> Hola, soy @Dmitriy👋! </h3>
+</p><p>
    
-![Imagen de banner](https://github.com/Zintinux83/Zintinux83/blob/main/fondo_m.jpeg)
-   
-</div>
+## 🛠️ Tecnologías
+    
+Estoy aprendiendo y practicando con:
 
-<p>
+* **Lenguajes:** Java (intermedio), Kotlin (básico), HTML y CSS.
+* **Bases de Datos:** MySQL
+* **Herramientas:** Git, GitHub, IntelliJ IDEA, VS Code
 
+## 💡 Mis Proyectos
 
+* [proyecto 1]() - Descripción.
+* [proyecto 2]() - Descripción.
 
----
+## 📚 Aprendizaje Continuo
 
-## 🌟 Sobre mí
+Para seguir creciendo como desarrollador, me mantengo actualizado a través de:
+* [Mi perfil de Google Kotlin Development Program](https://developers.google.com/profile/u/100296476580380434986)
+* [Kotlin Official Docs](https://kotlinlang.org/docs/kotlin-tour-welcome.html)
+* [Kotlin en W3School](https://www.w3schools.com/kotlin/index.php)
+* [Java con W3School](https://www.w3schools.com/java/)
+* [Git en W3School](https://www.w3schools.com/git/default.asp)
+* 
 
-Soy un desarrollador apasionado en formación, actualmente cursando **2º del ciclo formativo de Desarrollo de Aplicaciones Multiplataforma (2ºDAM)**.
+## ¡Contáctame!
 
----
+Estoy abierto a colaborar en proyectos interesantes y aprender de otros desarrolladores. Puedes encontrarme en:
 
-## 🛠️ Tecnologías y Herramientas
-
-- **Lenguajes de Programación:**
-  - Java
-  - Kotlin
-
-- **Bases de Datos:**
-  - MySQL
-  - PostgreSQL
-
-- **Uso de software, entornos y herramientas:**
-  - GNU Linux como SO de uso, me gusta Fedora y Linux Mint como distros.
-  - IntelliJ IDEA
-  - Android Studio
-  - MySQL Workbench
-  - VMware
-
----
-
-## 📈 ¿Qué me motiva?
-
-Estoy emocionado por seguir aprendiendo y creciendo en el mundo de la programación. 
-
----
-
-## 📫 ¡Conectemos!
-
-<p align="center">
-  </a>
-  <span style="width: 8px;"> </span>
-  <a href="" target="blank">
-    <img align="center" src="png" alt="" height="23px" width="23px" />
-  </a>
-  <span style="width: 8px;"> </span>
-  <a href="" target="blank">
-    <img align="center" src="png" alt="" height="23px" width="28px" />
-  </a>
+[No hay enlace a LinkedIn de momento](https://www.linkedin.com/in/perfil)
 </p>
-
-## 🛠️ Mis proyectos que puedes considerar
-
-- **Lenguajes de Programación:**
-   - 
-
----
-
-## 🛠️ Mis fuentes de información 
-
-- **Lenguajes de Programación:**
-   - 
-
----
-
-¡Gracias por visitar mi perfil! 🚀
-
----
- 
-</p>
-
-
-
 
 <!---
 Zintinux83/Zintinux83 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
