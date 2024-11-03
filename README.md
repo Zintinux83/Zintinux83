@@ -42,17 +42,17 @@ Para seguir creciendo como desarrollador, me mantengo actualizado a través de:
 <tr>
 <td>
 <a href="https://youtu.be/Kp4Mvapo5kc">
-<img src="http://i3.ytimg.com/vi/Kp4Mvapo5kc/maxresdefault.jpg">
+<img width="300" heigth="200" src="http://i3.ytimg.com/vi/Kp4Mvapo5kc/maxresdefault.jpg">
 </a>
 </td>
 <td>
 <a href="https://youtu.be/mIVbUb7shE8">
-<img src="http://i3.ytimg.com/vi/mIVbUb7shE8/maxresdefault.jpg">
+<img width="300" heigth="200" src="http://i3.ytimg.com/vi/mIVbUb7shE8/maxresdefault.jpg">
 </a>
 </td>
 <td>
 <a href="https://www.youtube.com/watch?v=oXl5irohkWQ">
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOVP.CASUhRk8QEfMjhGV51M1LwHgFo%26pid%3DApi&f=1&ipt=1d304c67fcab23ac2c7a6ff1b8b71c9ce8adca23dfb2b83530c0c29b046a32c6&ipo=videos">
+<img width="300" heigth="200" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOVP.CASUhRk8QEfMjhGV51M1LwHgFo%26pid%3DApi&f=1&ipt=1d304c67fcab23ac2c7a6ff1b8b71c9ce8adca23dfb2b83530c0c29b046a32c6&ipo=videos">
 </a>
 </td>
 </tr>
@@ -60,16 +60,16 @@ Para seguir creciendo como desarrollador, me mantengo actualizado a través de:
 <tr>
 <td>
 <a href="https://youtu.be/SavaU66KxQY">
-<img src="http://i3.ytimg.com/vi/SavaU66KxQY/maxresdefault.jpg">
+<img width="300" heigth="200" src="http://i3.ytimg.com/vi/SavaU66KxQY/maxresdefault.jpg">
 </a>
 </td>
 <td>
 <a href="https://youtu.be/G0ga_YVQOaw">
-<img src="http://i3.ytimg.com/vi/G0ga_YVQOaw/maxresdefault.jpg">
+<img width="300" heigth="200" src="http://i3.ytimg.com/vi/G0ga_YVQOaw/maxresdefault.jpg">
 </a>
 <td>
 <a href="https://www.youtube.com/watch?v=T3ugOYTRF7c">
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOVP.eRHSX6O4Wdi5ISqGvzMiSwHgFo%26pid%3DApi%26h%3D120&f=1&ipt=74c38213937ba9b27f3f1f4d5b84187313a0026296a8f35ba132d30a7cc2c36a&ipo=videos">
+<img width="300" heigth="200" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOVP.eRHSX6O4Wdi5ISqGvzMiSwHgFo%26pid%3DApi%26h%3D120&f=1&ipt=74c38213937ba9b27f3f1f4d5b84187313a0026296a8f35ba132d30a7cc2c36a&ipo=videos">
 </a>
 </td>
 </tr>
